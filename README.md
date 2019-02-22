@@ -1,2 +1,1 @@
-# EPAM_Homework
-01 - Some tests with Git
+Changed readme to enable conflict with master branch
