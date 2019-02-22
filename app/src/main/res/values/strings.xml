@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SomeTestsWithGit</string>
+    <string name="btn1">First Button</string>
 </resources>
