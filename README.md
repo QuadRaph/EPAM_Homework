@@ -1,4 +1,7 @@
 # EPAM_Homework
-01 - Some tests with GitHub
+HW 04.03.2019:
+Write simple Fragment which restores its state.
 
-Still to be done: Chery Pick, Rebase, Stash
+<!-- TODO: Remove or change this placeholder text -->
+Write Activity, Service and BroadcastReceiver. Service sends data, Activity receives using Broadcast and shows it (show using Toast or logs, if you have no experience in UI).
+Preferable to execute at least one long-running operation, but it's optional.

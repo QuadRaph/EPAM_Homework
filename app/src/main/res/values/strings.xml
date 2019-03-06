@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">SomeTestsWithGit</string>
+    <string name="app_name">Fragments</string>
     <string name="btn1">First Button</string>
     <string name="btn2">Second Button</string>
     <string name="btn3">Third Button</string>
+    <string name="hello_fragment">Hello my first fragment!</string>
 </resources>
